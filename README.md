@@ -1,5 +1,6 @@
 <h1>Билет #1</h1>
-![image](https://user-images.githubusercontent.com/90152615/175812932-44203592-acd0-4d91-89c3-917736c08c51.png)
+![image](https://user-images.githubusercontent.com/90152615/175813017-301b4547-43e8-4f19-b543-d7537a3e3e57.png)
+
 
 <h3>История определения тестирования. Что под ним понимали в разное время?</h3>
 
