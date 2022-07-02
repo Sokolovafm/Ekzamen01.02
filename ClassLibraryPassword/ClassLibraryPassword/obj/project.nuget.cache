@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFXm25M/JBKmSPdZkhdSSM4dj3zChQlf1z21k7hnS16g14VHovWZkL4rqQwoHAxoC/Al9NFU29tRLmuM9/UjzA==",
+  "success": true,
+  "projectFilePath": "D:\\Docs\\SokolovaEkzamen\\ClassLibraryPassword\\ClassLibraryPassword\\ClassLibraryPassword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flamecore\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Flamecore\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
