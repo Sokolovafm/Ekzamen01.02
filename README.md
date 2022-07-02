@@ -24,39 +24,40 @@
 <th>Результат</th>
 </tr>
 
-<tr>
-<td>Корректный пароль:</td>
-<td></td>
-<td>True</td>
-</tr>
 
 <tr>
 <td>Количество символов от 8 до 20</td>
-<td>qwertyasdfgh</td>
+<td>qwer$r</td>
+<td>False</td>
+</tr>
+ 
+<tr>
+<td></td>
+<td>QW1ertyas$</td>
 <td>True</td>
 </tr>
 
 <tr>
 <td></td>
-<td>qwer</td>
+<td>QWERR$$ASDFG$$ZXCVB%%YHNBGTRFV</td>
 <td>False</td>
 </tr>
 
 <tr>
 <td>Наличие цифр</td>
-<td>ujmyhnip123</td>
+<td>ujmyhnip123A$</td>
 <td>True</td>
 </tr>
 
 <tr>
 <td></td>
-<td>rfvedcsdf</td>
+<td>rfvedcsdfD()</td>
 <td>False</td>
 </tr>
 
 <tr>
 <td>Наличие спецсимволов</td>
-<td>ae#!@zxds</td>
+<td>ae#!@zxdsD3#</td>
 <td>True</td>
 </tr>
 
@@ -68,19 +69,19 @@
 
 <tr>
 <td>Наличие прописных букв</td>
-<td>LKJHgfds</td>
+<td>LKJHgfds1$</td>
 <td>True</td>
 </tr>
 
 <tr>
-<td></td>
+<td>lkjhgfdf</td>
 <td>lkjhgfdf</td>
 <td>False</td>
 </tr>
 
 <tr>
 <td>Наличие строчных букв</td>
-<td>QWERasdf</td>
+<td>QWERasdf5%</td>
 <td>True</td>
 </tr>
 
